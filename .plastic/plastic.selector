@@ -1,0 +1,3 @@
+repository "unity_course/unity_course@9071467074028@cloud"
+  path "/"
+    smartbranch "/main"
